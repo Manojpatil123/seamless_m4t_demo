@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/seamless-m4t-colab/blob/main/seamless_m4t_colab.ipynb) | seamless_m4t_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Manojpatil123/seamless_m4t_demo/blob/main/seamless_m4t_colab.ipynb) | seamless_m4t_colab
 
 ## Main Repo
 https://github.com/facebookresearch/seamless_communication <br />
